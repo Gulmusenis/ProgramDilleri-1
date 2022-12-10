@@ -1,0 +1,3 @@
+﻿  FeetSantimetreDonusumu.cpp
+D:\9.Hafta\FeetSantimetreDonusumu\FeetSantimetreDonusumu.cpp(8,12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  FeetSantimetreDonusumu.vcxproj -> D:\9.Hafta\FeetSantimetreDonusumu\x64\Debug\FeetSantimetreDonusumu.exe

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TeklikCiftlikKontrolu", "TeklikCiftlikKontrolu.vcxproj", "{EA1F92E2-CBA2-4A5C-A59D-03AD799F8D50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA1F92E2-CBA2-4A5C-A59D-03AD799F8D50}.Debug|x64.ActiveCfg = Debug|x64
+		{EA1F92E2-CBA2-4A5C-A59D-03AD799F8D50}.Debug|x64.Build.0 = Debug|x64
+		{EA1F92E2-CBA2-4A5C-A59D-03AD799F8D50}.Debug|x86.ActiveCfg = Debug|Win32
+		{EA1F92E2-CBA2-4A5C-A59D-03AD799F8D50}.Debug|x86.Build.0 = Debug|Win32
+		{EA1F92E2-CBA2-4A5C-A59D-03AD799F8D50}.Release|x64.ActiveCfg = Release|x64
+		{EA1F92E2-CBA2-4A5C-A59D-03AD799F8D50}.Release|x64.Build.0 = Release|x64
+		{EA1F92E2-CBA2-4A5C-A59D-03AD799F8D50}.Release|x86.ActiveCfg = Release|Win32
+		{EA1F92E2-CBA2-4A5C-A59D-03AD799F8D50}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5642DD52-6EF5-43AE-BFCD-D75A524E031C}
+	EndGlobalSection
+EndGlobal
