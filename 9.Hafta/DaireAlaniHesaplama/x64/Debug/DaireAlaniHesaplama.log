@@ -1,0 +1,3 @@
+﻿  DaireAlaniHesaplama.cpp
+D:\9.Hafta\DaireAlaniHesaplama\DaireAlaniHesaplama.cpp(10,22): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  DaireAlaniHesaplama.vcxproj -> D:\9.Hafta\DaireAlaniHesaplama\x64\Debug\DaireAlaniHesaplama.exe
