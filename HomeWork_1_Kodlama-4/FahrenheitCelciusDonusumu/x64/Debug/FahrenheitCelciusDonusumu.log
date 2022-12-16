@@ -1,0 +1,3 @@
+﻿  FahrenheitCelciusDonusumu.cpp
+D:\HomeWork-1-Kodlama\FahrenheitCelciusDonusumu\FahrenheitCelciusDonusumu.cpp(8,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  FahrenheitCelciusDonusumu.vcxproj -> D:\HomeWork-1-Kodlama\FahrenheitCelciusDonusumu\x64\Debug\FahrenheitCelciusDonusumu.exe
